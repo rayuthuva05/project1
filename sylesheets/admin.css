@@ -1,0 +1,16 @@
+.logo-pic {
+    max-width: 30px;
+    max-height: 30px;
+}
+.btn-secondary {
+    background-color: rgb(226, 118, 201);
+    color: black;
+    text-shadow: 2cqb;
+    font-size: 20px;
+    font-style: oblique;
+    padding-right: 10px;
+}
+.btn-secondary a:hover {
+    background-color: #4CAF50;
+    color: aliceblue;
+}
